@@ -13,5 +13,7 @@ links:
         url: https://www.isomer.gov.sg
       - title: Open Government Products
         url: https://www.open.gov.sg
+  - title: Resource Room
+    resource_room: true
   - title: Contact Us
     url: /contact-us/
