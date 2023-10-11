@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - Embeds.md
+      - OGP Embeds/CheckFirst.md
       - OGP Embeds/.keep
       - OGP Embeds/FormSG.md
