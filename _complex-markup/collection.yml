@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Embeds.md
-      - example-subfolder/.keep
-      - example-subfolder/subfolder-page.md
+      - OGP Embeds/.keep
+      - OGP Embeds/subfolder-page.md
