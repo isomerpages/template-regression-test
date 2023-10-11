@@ -1,15 +1,17 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: Simple Markdown Page
+    url: /simple-markdown-page/
   - title: Complex Markup
     collection: complex-markup
-  - title: New menu group
-    url: /permalink
+  - title: Group of Links
+    url: /simple-markdown-page
     sublinks:
-      - title: Submenu 1
-        url: /permalink
-      - title: Submenu 2
-        url: /permalink
+      - title: Isomer Guide
+        url: https://guide.isomer.gov.sg
+      - title: Isomer Website
+        url: https://www.isomer.gov.sg
+      - title: Open Government Products
+        url: https://www.open.gov.sg
+  - title: Contact Us
+    url: /contact-us/
