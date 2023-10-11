@@ -18,9 +18,7 @@ Within a paragraph, we can **bold text to emphasize certain words**, or use *ita
 
 Here is a snippet of code to create an alert on JavaScript:
 ```
-&lt;script>
 alert("Hello world!")
-&lt;/script>
 ```
 
 In the console, you can just do a `console.log("Hello world!")` to get a response.
