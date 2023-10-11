@@ -4,8 +4,8 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Complex Markup
+    collection: complex-markup
   - title: New menu group
     url: /permalink
     sublinks:
