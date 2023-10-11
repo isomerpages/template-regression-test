@@ -7,7 +7,7 @@ This page is for us to test the common embeds.
 
 ### Google Slides
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vReIi0KB7Z6X2dDCGoLp\_\_ubrRj3V9CMCM8j66CpFESBaQ5vh6kTa5-2FuMKrWFfSL\_-smvsAkvf-Vo/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vReIi0KB7Z6X2dDCGoLp__ubrRj3V9CMCM8j66CpFESBaQ5vh6kTa5-2FuMKrWFfSL_-smvsAkvf-Vo/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 ### YouTube
 
