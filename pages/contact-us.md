@@ -34,7 +34,7 @@ contacts:
       - other: Any text here <i>including HTML</i>
     title: General Enquiries & Feedback
   - content:
-      - phone: +65 9000 0000
+      - phone: 1800 765 4321
       - email: careers@abc.gov.sg
       - other: ""
     title: Careers
