@@ -3,7 +3,7 @@ title: Simple Markdown Page
 permalink: /simple-markdown-page/
 description: ""
 ---
-&gt; Isomer is a website builder for government agencies to launch static websites *easily and for free*
+> Isomer is a website builder for government agencies to launch static websites *easily and for free*
 
 This page is intended to test the common Markdown-related functionality that our users will use.
 
@@ -18,7 +18,9 @@ Within a paragraph, we can **bold text to emphasize certain words**, or use *ita
 
 Here is a snippet of code to create an alert on JavaScript:
 ```
-
+&lt;script>
+alert("Hello world!")
+&lt;/script>
 ```
 
 In the console, you can just do a `console.log("Hello world!")` to get a response.
