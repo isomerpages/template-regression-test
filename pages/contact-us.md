@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
+agency_name: Isomer Regression Agency
 locations:
   - address:
       - 31 Sesame Street
@@ -27,16 +27,6 @@ locations:
         description: ""
     maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
     title: Branch Office
-  - address:
-      - "1"
-      - "2"
-      - "3"
-    title: Address
-    operating_hours:
-      - days: Mon - Fri
-        time: 12-3
-        description: Hello world
-    maps_link: ""
 contacts:
   - content:
       - phone: +65 6123 4567
