@@ -1,5 +1,5 @@
 collections:
-  example-folder:
+  complex-markup:
     output: true
     order:
       - folder-page.md
