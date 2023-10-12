@@ -9,6 +9,10 @@ This page is for us to test the common embeds.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vReIi0KB7Z6X2dDCGoLp__ubrRj3V9CMCM8j66CpFESBaQ5vh6kTa5-2FuMKrWFfSL_-smvsAkvf-Vo/embed?start=false&amp;loop=false&amp;delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
+### Google Calendar
+
+<iframe scrolling="yes" frameborder="1" height="600" width="800" style="border:solid 5px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;src=Y181M3BrZDNiZHUxYW1nNW1ub25sOWlvYmtuNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23AD1457"></iframe>
+
 ### YouTube
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/mgxE3IPE4WY?si=oP1z_1SOuBSO2b1b&amp;start=3512" height="315" width="560"></iframe>
