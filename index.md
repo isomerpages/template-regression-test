@@ -36,6 +36,14 @@ sections:
       button: Button Text
       image: /images/hero-banner.png
       alt: Image alt text
+  - infopic:
+      title: Infopic
+      subtitle: Add an image and text
+      id: infopic
+      description: Infopic description
+      button: Button Text
+      image: /images/mountains-g80d215c20_1280.jpg
+      alt: Image alt text
   - resources:
       title: Resources
       subtitle: Add a preview and link to your Resource Room
