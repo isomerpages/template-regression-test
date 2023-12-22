@@ -1,7 +1,9 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Simple Markdown Page
+  - title: Markdown Page
     url: /simple-markdown-page/
+  - title: Tiptap Editor
+    url: /tiptap-editor
   - title: Complex Markup
     collection: complex-markup
   - title: Group of Links
