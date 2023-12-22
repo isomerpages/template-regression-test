@@ -2,6 +2,7 @@ collections:
   complex-markup:
     output: true
     order:
+      - Complex Blocks.md
       - Embeds.md
       - OGP Embeds/Data gov sg.md
       - OGP Embeds/CheckFirst.md
