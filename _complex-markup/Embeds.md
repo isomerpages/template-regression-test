@@ -2,6 +2,7 @@
 title: Embeds
 permalink: /complex-markup/embeds/
 description: ""
+variant: markdown
 ---
 This page is for us to test the common embeds.
 
@@ -12,6 +13,10 @@ This page is for us to test the common embeds.
 ### Google Calendar
 
 <iframe scrolling="yes" frameborder="1" height="600" width="800" style="border:solid 5px #777" src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=Asia%2FSingapore&amp;src=Y181M3BrZDNiZHUxYW1nNW1ub25sOWlvYmtuNEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&amp;color=%23AD1457"></iframe>
+
+### Google Maps
+
+<iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d597.7523002361554!2d103.85029720027245!3d1.297989354553817!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2ssg!4v1704792812823!5m2!1sen!2ssg"></iframe>
 
 ### YouTube
 
